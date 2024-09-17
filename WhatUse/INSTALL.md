@@ -25,7 +25,7 @@ Ao termina-lo de baixa-lo mova em alguma pasta que ninguém mexa para não preju
 <br>
 ![stp3](./installimg/step3.png)
 <br>
-A janela que aparecer você pode fecha-la.
+Pressione [ENTER] e vai aparecer uma janela preta (você pode fecha-la).
 <br>
 Mova o arquivo baixado JLCmdPTB.cab para %appdata%\..\Local\JLCmdPTB e abra o arquivo cab, você verá esses arquivos:
 ![stp4](./installimg/step4.png)
@@ -34,7 +34,7 @@ Você jogue os arquivos até a pasta criada (%appdata%\..\Local\JLCmdPTB):
 ![stp4](./installimg/step4-2.png)
 <br>
 Você pode ver o README ou já iniciar o JLCmd executando o jlcmd.bat.
-
+![fe](./installimg/filesextracted.png)
 
 
 
