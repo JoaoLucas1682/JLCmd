@@ -21,15 +21,16 @@ Depois de entrar você vai se deparar com esta parte:
 <br>
 Clique em JLCmdPTB.cab e isso vai baixa-lo o JLCmd compactado no Windows Cabinet File. 
 
-Ao termina-lo de baixa-lo mova em alguma pasta que ninguém mexa para não prejudicar o JLCmd (Para deixar mais fácil, pressione Windows+R e digite: CMD /c mkdir "%appdata%\..\Local\JLCmdPTB" ):
-
+Ao termina-lo de baixa-lo mova em alguma pasta que ninguém mexa para não prejudicar o JLCmd (Para deixar mais fácil, pressione Windows+R e digite: CMD /k mkdir "%appdata%\..\Local\JLCmdPTB" ):
 ![stp3](./installimg/step3.png)
 <br>
+A janela que aparecer você pode fecha-la.
+<br>
 Mova o arquivo baixado JLCmdPTB.cab para %appdata%\..\Local\JLCmdPTB e abra o arquivo cab, você verá esses arquivos:
-![](./installimg/step3.png)
+![stp4](./installimg/step4.png)
 <br>
 Você jogue os arquivos até a pasta criada (%appdata%\..\Local\JLCmdPTB):
-
+![stp4](./installimg/step4-2.png)
 <br>
 Você pode ver o README ou já iniciar o JLCmd executando o jlcmd.bat.
 
