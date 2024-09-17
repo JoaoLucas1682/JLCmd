@@ -22,6 +22,7 @@ Depois de entrar você vai se deparar com esta parte:
 Clique em JLCmdPTB.cab e isso vai baixa-lo o JLCmd compactado no Windows Cabinet File. 
 
 Ao termina-lo de baixa-lo mova em alguma pasta que ninguém mexa para não prejudicar o JLCmd (Para deixar mais fácil, pressione Windows+R e digite: CMD /k mkdir "%appdata%\..\Local\JLCmdPTB" ):
+<br>
 ![stp3](./installimg/step3.png)
 <br>
 A janela que aparecer você pode fecha-la.
